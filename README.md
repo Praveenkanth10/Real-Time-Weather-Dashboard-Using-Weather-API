@@ -1,4 +1,4 @@
-🌤️ Project Update – Real-Time Weather Dashboard Using Weather API 🌐
+# Project Update – Real-Time Weather Dashboard Using Weather API 🌐
 Excited to share my second project! 🚀
 I developed a Weather Forecast Dashboard that displays real-time data like temperature, humidity, air quality, wind speed, and 7-day forecasts using a Weather API. The dashboard includes:
 Key Functionalities:
